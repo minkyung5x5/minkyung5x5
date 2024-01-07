@@ -5,14 +5,30 @@
 </div>
 <hr/>
 <h3>💻 Tech Stack</h3>
+<h4>FrontEnd</h4>
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
-
-<h4>FrontEnd</h4>
 <h4>BackEnd</h4>
+<p>
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+</p>
+<h4>Collaboration Tools</h4>
+<p>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+</p>
 <hr/>
 <h3>💡 Projects</h3>
 
@@ -20,64 +36,51 @@
   <thead align="center">
     <tr border: none;>
       <td><b>Repository</b></td>
-      <td><b>Type</b></td>
       <td><b>Tech Stack</b></td>
       <td><b>Lecture</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href=""><b>vanilla-redux</b></a></td>
-      <td>Clone Coding</td>
-      <td>Typescript, React</td>
-      <td><a href="">노마드코더 - 실전형 리액트 Hooks 10개</a></td>
+      <td><a href=""><b>실전형 리액트 Hooks 10개</b></a></td>
+      <td><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></td>
+      <td><a href="https://nomadcoders.co/react-hooks-introduction">노마드코더</a></td>
     </tr>
     <tr>
-      <td><a href=""><b>vanilla-redux</b></a></td>
-      <td>Clone Coding</td>
-      <td>Typescript, React</td>
-      <td><a href="">노마드코더 - 초보자를 위한 리덕스 101</a></td>
+      <td><a href=""><b>초보자를 위한 리덕스 101</b></a></td>
+      <td><img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/></td>
+      <td><a href="https://nomadcoders.co/redux-for-beginners">노마드코더</a></td>
     </tr>
     <tr>
-      <td><a href=""><b>vanilla-redux</b></a></td>
-      <td>Clone Coding</td>
-      <td>Typescript, React</td>
-      <td><a href="">노마드코더 - 타입스크립트로 블록체인 만들기</a></td>
+      <td><a href=""><b>타입스크립트로 블록체인 만들기</b></a></td>
+      <td><img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></td>
+      <td><a href="https://nomadcoders.co/typescript-for-beginners">노마드코더</a></td>
     </tr>
     <tr>
-      <td><a href=""><b>vanilla-redux</b></a></td>
-      <td>Clone Coding</td>
-      <td>Typescript, React</td>
-      <td><a href="">노마드코더 - NextJS 시작하기</a></td>
+      <td><a href=""><b>NextJS 시작하기</b></a></td>
+      <td><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></td>
+      <td><a href="https://nomadcoders.co/nextjs-fundamentals">노마드코더</a></td>
     </tr>
     <tr>
-      <td><a href=""><b>vanilla-redux</b></a></td>
-      <td>Clone Coding</td>
-      <td>Typescript, React</td>
-      <td><a href="">노마드코더 - ReactJS로 영화 웹 서비스 만들기</a></td>
+      <td><a href=""><b>ReactJS로 영화 웹 서비스 만들기</b></a></td>
+      <td><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></td>
+      <td><a href="https://nomadcoders.co/react-for-beginners">노마드코더</a></td>
     </tr>
     <tr>
-      <td><a href=""><b>vanilla-redux</b></a></td>
-      <td>Clone Coding</td>
-      <td>Typescript, React</td>
-      <td><a href="">노마드코더 - 바닐라JS로 크롬 앱 만들기</a></td>
+      <td><a href=""><b>바닐라JS로 크롬 앱 만들기</b></a></td>
+      <td><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/></td>
+      <td><a href="https://nomadcoders.co/javascript-for-beginners">노마드코더</a></td>
     </tr>
     <tr>
-      <td><a href=""><b>vanilla-redux</b></a></td>
-      <td>Side Project</td>
-      <td>Typescript, React</td>
+      <td><a href=""><b>열래말래 - 문제를 풀어야 읽을 수 있는 편지</b></a></td>
+      <td>
+        <p>
+        <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+        </p>
+      </td>
       <td>.</td>
     </tr>
   </tbody>
 </table>
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
