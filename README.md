@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&text=Minkyung%20Portpolio%20👋&color=gradient&height=200)
 
 </div>
-
+<hr/>
 <h3>💻 Tech Stack</h3>
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
@@ -13,7 +13,7 @@
 
 <h4>FrontEnd</h4>
 <h4>BackEnd</h4>
-
+<hr/>
 <h3>💡 Projects</h3>
 
 <table>
