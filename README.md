@@ -5,6 +5,12 @@
 </div>
 
 <h3>💻 Tech Stack</h3>
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+
 <h4>FrontEnd</h4>
 <h4>BackEnd</h4>
 
