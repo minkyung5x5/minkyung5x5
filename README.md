@@ -42,37 +42,37 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href=""><b>실전형 리액트 Hooks 10개</b></a></td>
+      <td><a href="https://github.com/minkyung5x5/nomad-hooks"><b>실전형 리액트 Hooks 10개</b></a></td>
       <td><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></td>
       <td><a href="https://nomadcoders.co/react-hooks-introduction">노마드코더</a></td>
     </tr>
     <tr>
-      <td><a href=""><b>초보자를 위한 리덕스 101</b></a></td>
+      <td><a href="https://github.com/minkyung5x5/nomad-redux"><b>초보자를 위한 리덕스 101</b></a></td>
       <td><img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/></td>
       <td><a href="https://nomadcoders.co/redux-for-beginners">노마드코더</a></td>
     </tr>
     <tr>
-      <td><a href=""><b>타입스크립트로 블록체인 만들기</b></a></td>
+      <td><a href="https://github.com/minkyung5x5/nomad-typescript"><b>타입스크립트로 블록체인 만들기</b></a></td>
       <td><img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></td>
       <td><a href="https://nomadcoders.co/typescript-for-beginners">노마드코더</a></td>
     </tr>
     <tr>
-      <td><a href=""><b>NextJS 시작하기</b></a></td>
+      <td><a href="https://github.com/minkyung5x5/nomad-nextjs"><b>NextJS 시작하기</b></a></td>
       <td><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></td>
       <td><a href="https://nomadcoders.co/nextjs-fundamentals">노마드코더</a></td>
     </tr>
     <tr>
-      <td><a href=""><b>ReactJS로 영화 웹 서비스 만들기</b></a></td>
+      <td><a href="https://github.com/minkyung5x5/nomad-react"><b>ReactJS로 영화 웹 서비스 만들기</b></a></td>
       <td><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></td>
       <td><a href="https://nomadcoders.co/react-for-beginners">노마드코더</a></td>
     </tr>
     <tr>
-      <td><a href=""><b>바닐라JS로 크롬 앱 만들기</b></a></td>
+      <td><a href="https://github.com/minkyung5x5/nomad-javascript"><b>바닐라JS로 크롬 앱 만들기</b></a></td>
       <td><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/></td>
       <td><a href="https://nomadcoders.co/javascript-for-beginners">노마드코더</a></td>
     </tr>
     <tr>
-      <td><a href=""><b>열래말래 - 문제를 풀어야 읽을 수 있는 편지</b></a></td>
+      <td><a href="https://github.com/minkyung5x5/side-openmyletter"><b>열래말래 - 문제를 풀어야 읽을 수 있는 편지</b></a></td>
       <td>
         <p>
         <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
