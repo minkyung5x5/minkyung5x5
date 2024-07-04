@@ -42,6 +42,16 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/minkyung5x5/side-badawrite"><b>Badawrite - 실시간 자막 지원 서비스</b></a></td>
+      <td><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></td>
+      <td>.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/minkyung5x5/side-bookstore"><b>책방 - 책 주문 서비스</b></a></td>
+      <td><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></td>
+      <td>.</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/minkyung5x5/nomad-hooks"><b>실전형 리액트 Hooks 10개</b></a></td>
       <td><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></td>
       <td><a href="https://nomadcoders.co/react-hooks-introduction">노마드코더</a></td>
