@@ -42,7 +42,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/minkyung5x5/side-onboarder"><b>Onboarder - 나만의 AI 사수</b></a></td>
+      <td><a href="https://github.com/minkyung5x5/side-sasu"><b>Onboarder - 나만의 AI 사수</b></a></td>
       <td>
         <p>
         <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
